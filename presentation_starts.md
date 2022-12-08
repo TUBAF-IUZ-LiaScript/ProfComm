@@ -139,7 +139,7 @@ Type of start?
 
 ### Task 2
 
-> Choose one of the videos in Task 1 and watch the whole presentation. Write an analysis of the presentation including the points below and upload it to 
+> Choose one of the videos in Task 1 and watch the whole presentation. Write an analysis of the presentation including the points below and upload it as a pdf [here](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37010112522/CourseNode/1670470089431736007)
 
 - Give your text a title
 - The title of the TED talk
