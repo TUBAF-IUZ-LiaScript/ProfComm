@@ -8,7 +8,7 @@ narrator: US English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
-icon: ./img/TUBAF_Logo_orig_RGB.jpg
+icon:    ./images/TUBAF_Logo_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
