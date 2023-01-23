@@ -16,6 +16,8 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/ProfComm/blob/main/Assessment_Criteria_ROB.md)
+
 # Assesment criteria for presentations
 
 ## Rhetoric
