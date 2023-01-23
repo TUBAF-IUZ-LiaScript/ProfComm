@@ -8,7 +8,7 @@ narrator: US English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
-icon: https://tu-freiberg.de/sites/default/files/media/dezernat-5-21513/bildergalerien/20180918_144723.png
+icon: ./img/TUBAF_Logo_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
