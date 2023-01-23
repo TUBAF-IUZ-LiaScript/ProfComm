@@ -20,7 +20,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Assesment criteria for presentations
 
-## Rhetoric
+## Rhetorical Categories
 
 1. Ethos
 
@@ -28,7 +28,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 3. logos
 
-## Pedagogy
+## Standard Categories
 
 1. Content (just outside the medals in fourth)
  - quality of information, trustwothy source
@@ -70,14 +70,18 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 ## presentations
 
-starter
-... is one of most important challenges for robotics
-1.
-2.
-3.
-conclusion
+- starter
+- ... is one of most important challenges for robotics
 
-audience interaction
+1. First point
+
+2. Second point
+
+3. Third point
+
+- Finish up with a convincing conclusion
+
+- Make sure to include audience interaction from beginning to end
 
 ### Transition phrases
 
@@ -91,7 +95,7 @@ audience interaction
 - "This leads us to our next point..." 
 - "Another thing to consider is..."
 
-Here are some links to these sources:
+> Here are some links to these sources:
 
 - ThoughtCo: https://www.thoughtco.com/effective-transition-phrases-for-speaking-1692737
 
@@ -101,7 +105,7 @@ Here are some links to these sources:
 
 ## Things to notice
 
-starter
-transition phrases
-audience interaction
-delivery
+- starter
+- transition phrases
+- audience interaction
+- delivery
