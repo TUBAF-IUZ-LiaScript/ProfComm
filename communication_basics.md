@@ -8,7 +8,7 @@ narrator: US English Female
 comment:  This simple description of your course.
           Multiline is also okay.
 
-icon: https://tu-freiberg.de/sites/default/files/media/dezernat-5-21513/bildergalerien/20180918_144723.png
+icon: images/TUBAF_Logo_orig_RGB.jpg
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -23,7 +23,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 ## Task 1
 
     {{0}}
-![old friend](https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/max_1300x1300/public/RS8116_GettyImages-960274508-hig.jpg?itok=zlArGFO0)
+![old friend](images/RS8116_GettyImages-960274508-hig.jpg)
 
     {{1}}
 You meet an old friend/acquaintance/schoolmate.
