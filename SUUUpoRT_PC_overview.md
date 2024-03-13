@@ -18,7 +18,7 @@ comment:  Session 0 of the module Professional Communication.
 > - Rhetoric (Aristotle)
 > - Communication models (Shannon & Weaver)
 
-> 2. **Know yourself**
+> 2. **The communicators**
 >
 > - Self concept (Carl Rogers)
 > - Disclosure (Johari window)
