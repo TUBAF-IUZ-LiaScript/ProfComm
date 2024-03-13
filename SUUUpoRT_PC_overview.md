@@ -9,7 +9,7 @@ comment:  Session 0 of the module Professional Communication.
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/ProfComm/blob/main/SUUUpoRT_PC_0.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/ProfComm/blob/main/SUUUpoRT_PC_overview.md)
 
 # Professional Communication
 
