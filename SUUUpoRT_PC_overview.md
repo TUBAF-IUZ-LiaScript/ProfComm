@@ -13,21 +13,20 @@ comment:  Session 0 of the module Professional Communication.
 
 # Professional Communication
 
-1. What is professional communication?
-2. Communication models
-3. Who are you (Elevator pitch and self concept)
-4. Perception and disclosure (Johari window?
-5. What have you done and what can you do? (CV, Cover letter and job interviews)
-6. Everyday negotiations
+1. Communication models
+2. Rhetoric (Elevator pitch)
+3. Self concept
+4. Perception and disclosure (Johari window)
+5. Job applications
+6. Job interviews
 7. Distributive bargaining
 8. Integrative negotiation
-8. Integrative negotiation
-9. Experiences of teams and team roles
-10. Teams vs groups and team development
+9. Teams vs groups and team development
+10. Intercultural teams
 11. Problem solving in teams
-12. Our leaders (traits and styles)
-13. Giving and receiving feedback
-14. Delegating
+12. Leading
+13. Active listening
+14. Giving and receiving feedback
 15. Overview
 
 
