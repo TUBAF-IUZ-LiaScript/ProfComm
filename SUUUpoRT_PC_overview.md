@@ -15,36 +15,36 @@ comment:  Session 0 of the module Professional Communication.
 
 1. Communication Basics
 
-  - Rhetoric (Aristotle)
-  - Communication models (Shannon & Weaver)
+- Rhetoric (Aristotle)
+- Communication models (Shannon & Weaver)
 
 2. Know yourself
 
-  - Self concept (Carl Rogers)
-  - Disclosure (Johari window)
+- Self concept (Carl Rogers)
+- Disclosure (Johari window)
 
 3. Communication skills
 
-  - Active listening
-  - Critical feedback
+- Active listening
+- Critical feedback
 
 4. Communication in groups
 
-  - Teams vs groups (Katzenbach & Smith, Belbin)
-  - Intercultural teams
+- Teams vs groups (Katzenbach & Smith, Belbin)
+- Intercultural teams
 
 5. Communication modes
-  - Visual communication (John Shook, A3 problem solving)
-  - Written communication (progress reports)
+- Visual communication (John Shook, A3 problem solving)
+- Written communication (progress reports)
 
 6. Communicating your worth
 
-  - Job applications (CV, cover letter)
-  - Job interviews (Interview questions)
+- Job applications (CV, cover letter)
+- Job interviews (Interview questions)
 
 7. Advanced Communication skills
-  - Distributive bargaining (Harvard PON)
-  - Integrative negotiation
+- Distributive bargaining (Harvard PON)
+- Integrative negotiation
 
 8. Review
 
